@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-router/static/css/main.4d181dac.chunk.css",
+    "main.js": "/react-router/static/js/main.ba75f111.chunk.js",
+    "main.js.map": "/react-router/static/js/main.ba75f111.chunk.js.map",
+    "runtime-main.js": "/react-router/static/js/runtime-main.f52d7fd9.js",
+    "runtime-main.js.map": "/react-router/static/js/runtime-main.f52d7fd9.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/react-router/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.73ae0c87.chunk.js": "/react-router/static/js/2.73ae0c87.chunk.js",
+    "static/js/2.73ae0c87.chunk.js.map": "/react-router/static/js/2.73ae0c87.chunk.js.map",
+    "index.html": "/react-router/index.html",
+    "precache-manifest.6e46b36fbf7051093b3144953de9a7ee.js": "/react-router/precache-manifest.6e46b36fbf7051093b3144953de9a7ee.js",
+    "service-worker.js": "/react-router/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/react-router/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.4d181dac.chunk.css.map": "/react-router/static/css/main.4d181dac.chunk.css.map",
+    "static/media/hazel.jpg": "/react-router/static/media/hazel.43e1b0c4.jpg",
+    "static/media/tubby.jpg": "/react-router/static/media/tubby.87d26e14.jpg",
+    "static/media/whiskey.jpg": "/react-router/static/media/whiskey.21fc3f5e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f52d7fd9.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.73ae0c87.chunk.js",
+    "static/css/main.4d181dac.chunk.css",
+    "static/js/main.ba75f111.chunk.js"
+  ]
+}
